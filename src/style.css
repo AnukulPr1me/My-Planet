@@ -52,8 +52,10 @@ nav ul{
   position: absolute;
   font-size: 3rem;
   left: 50%;
-  top: 75%;
+  top: 90%;
   transform: translate(-50%, -75%);
+  justify-content: center;
+  text-align: center;
 }
 
 .social li i {
@@ -61,4 +63,9 @@ nav ul{
   margin-right: 10px;
   color: #fff;
   
+}
+.title a{
+  color: rgb(196, 238, 142);
+  text-decoration: none;
+
 }
