@@ -20,5 +20,33 @@ body,html{
 nav{
 
   color: white;
-  z-index: 1;
+  z-index: 2;
+  position: relative;
+  padding: 4rem 8rem;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+nav a{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+nav ul{
+  list-style: none;
+  display: flex;
+  gap: 3rem;
+  cursor: pointer;
+}
+
+.title {
+  color: white;
+  z-index: 2;
+  position: absolute;
+  font-size: 3rem;
+  left: 50%;
+  top: 75%;
+  transform: translate(-50%, -75%);
 }
