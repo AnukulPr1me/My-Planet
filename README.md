@@ -2,6 +2,9 @@
 
 Welcome to my first Three.js project! This project is a simple 3D scene created using Three.js, a popular JavaScript library for creating 3D graphics on the web. In this scene, you'll find a basic 3D model, some interactive elements, and a beautiful rendering of 3D graphics.
 
+##Website Link
+My Planet:- https://app.netlify.com/sites/my-planet-earth/overview
+
 ## How to Clone and Run the Project
 
 To get started with the project, follow the steps below to clone the repository and run it using npm command-line:
