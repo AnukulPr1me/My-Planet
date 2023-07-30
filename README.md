@@ -1,4 +1,4 @@
-# My First Three.js Project
+# My Planet: First Three.js Project
 
 Welcome to my first Three.js project! This project is a simple 3D scene created using Three.js, a popular JavaScript library for creating 3D graphics on the web. In this scene, you'll find a basic 3D model, some interactive elements, and a beautiful rendering of 3D graphics.
 
@@ -65,5 +65,4 @@ Feel free to interact with the 3D scene! Depending on the complexity of your pro
 Give credit to any resources, tutorials, or assets used in your project. If you used any third-party libraries or models, mention them here.
 
 ---
-
-Congratulations on completing your first Three.js project! Have fun experimenting with 3D graphics and building more exciting projects in the future. If you have any questions or need further assistance, don't hesitate to ask. Happy coding! write in readme.md
+Thank you
